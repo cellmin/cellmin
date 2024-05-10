@@ -18,6 +18,7 @@
 ### Language
 - Java, JavaScript(ES6), TypeScript, Dart...
 - SQL
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cellmin&layout=compact&theme=tokyonight)
 
 <br>
